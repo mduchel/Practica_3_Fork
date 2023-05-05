@@ -4,6 +4,9 @@ Her
 Algo sobre mi madre
 Amelie
 La guerra de las galaxias
+Scream I
+Scream II
+Scream III
 Pelicula 1
 Pelicula 2
 Pelicula 3
@@ -11,3 +14,4 @@ Prueba de Peliculas
 Star Wars
 Mother
 Crepusculo
+
