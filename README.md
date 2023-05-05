@@ -3,7 +3,7 @@ Práctica 3 github 1 DAW
 
 
 Introduce tu nombre y apellidos y clase
-Carmina Martinez 6W
+Carmen 6W
 
 
 Nuevo Pull requests
