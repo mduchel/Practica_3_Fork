@@ -4,6 +4,9 @@ Jagged Little Pill
 Nina Simone
 Paul Dones
 Leonard Cohen
+disco 1
+disco 2
+disco 3
 Translúcid
 Cadena i or
 La Cura
@@ -16,3 +19,4 @@ Metallica
 ABBA
 
 
+>
