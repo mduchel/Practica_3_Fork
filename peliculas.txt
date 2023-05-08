@@ -32,3 +32,6 @@ Crepusculo
 Guardianes de la Galaxia Volumen 3
 Vaya Vacaciones
 Suzume
+Pelicula_1
+Pelicula_2
+Pelicula_3
