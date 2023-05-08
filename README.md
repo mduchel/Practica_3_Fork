@@ -9,9 +9,10 @@ Steve Maxwelle Nembot Nembot 6W
 Carmina Martinez 6W
 Breyner Pavas
 Ivan Porta Segura 6W
-Alexandra Simona Vasilache 6W
+Alexandra Simona Vasilache 6M
 Carmen 6W
-Alfonso Marquez
+Alfonso Marque z              
+Max Duchel 6W
 Ricardo Mena Diana 6W
 Cristian Porras Torres 6W
 Nuevo Pull requests
